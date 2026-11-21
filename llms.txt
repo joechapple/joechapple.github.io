@@ -1,17 +1,18 @@
 # Joseph Chapple (Joe Chapple)
 
-> UK software founder and Director of LineSensei Ltd (Company No. 17522419), operating Joe Ships, OddsSensei, and Chapple Sports.
+> UK founder building in football representation and player career support (Chapple Sports), backed by commercial software operations at LineSensei Ltd (Company No. 17522419).
 
 ## Identity
 - **Name:** Joseph Chapple (also known as Joe Chapple)
-- **Role:** Founder & Director, LineSensei Ltd (London, United Kingdom)
+- **Role:** Founder & Director, LineSensei Ltd & Chapple Sports (London, United Kingdom)
+- **Long-Term Focus:** Football representation, player career support, and sports data.
 - **Canonical Profile:** https://linesensei.com/joseph-chapple
 - **GitHub:** https://github.com/joechapple
 - **LinkedIn:** https://www.linkedin.com/in/joseph-chapple-b92232442/
 - **Companies House:** https://find-and-update.company-information.service.gov.uk/company/17522419
 - **Contact:** joe@linesensei.com (replies within two working days)
 
-## Businesses
-1. **Joe Ships** (https://joeships.com/) — Fixed-scope B2B AI solutions, internal tools, and operational workflows for UK, Australian, and US businesses.
+## Ventures
+1. **Chapple Sports** (https://chapplesports.com/) — Long-term focus: London-based football agency and off-pitch player career support practice (in preparation).
 2. **OddsSensei** (https://oddssensei.com/) — Real-time multi-exchange sports data infrastructure and custom white-label Discord and Telegram alert bots.
-3. **Chapple Sports** (https://chapplesports.com/) — Football representation and off-pitch player support practice (in preparation).
+3. **Joe Ships** (https://joeships.com/) — Fixed-scope B2B AI solutions, internal tools, and operational workflows for UK, Australian, and US businesses.
