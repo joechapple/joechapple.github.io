@@ -1,21 +1,16 @@
 # Joseph Chapple (Joe Chapple)
 
-> UK founder leading +EV Labs (operated by LineSensei Ltd, Company No. 17522419), building practical B2B software (Joe Ships) and quantitative sports pricing data infrastructure (OddsSensei), and independently building Chapple Sports (football representation).
+> London-based founder of Joe Ships (operated by LineSensei Ltd, Company No. 17522419), fixed-scope B2B AI solutions and internal tools, and independently building Chapple Sports (football representation).
 
 ## Identity
 - **Name:** Joseph Chapple (also known as Joe Chapple)
-- **Role:** Founder & Director, +EV Labs (LineSensei Ltd) · Independent Founder, Chapple Sports (London, United Kingdom)
-- **Canonical Profile:** https://plusevlabs.com/joseph-chapple
+- **Role:** Founder & Director, LineSensei Ltd (operates Joe Ships) · Independent Founder, Chapple Sports (London, United Kingdom)
+- **Canonical Profile:** https://linesensei.com/joseph-chapple
 - **GitHub:** https://github.com/joechapple
 - **LinkedIn:** https://www.linkedin.com/in/joseph-chapple-b92232442/
 - **Companies House:** https://find-and-update.company-information.service.gov.uk/company/17522419
 - **Contact:** joe@linesensei.com (replies within two working days)
 
-## Active Studio & Ventures
-1. **+EV Labs** (https://plusevlabs.com/) — Public parent studio (trading name of LineSensei Ltd) building private AI workflows and client-owned data infrastructure for multi-site enterprises.
-2. **Joe Ships** (https://joeships.com/) — Fixed-scope B2B AI solutions and internal tools improving productivity across ordinary commercial businesses in the UK, Australia, and the US.
-3. **OddsSensei** (https://oddssensei.com/) — Quantitative pricing software and real-time normalized multi-exchange sports data infrastructure for B2B sports communities and publishers (zero gambling operations or custody of funds).
-4. **Chapple Sports** (https://chapplesports.com/) — Strictly separate, independent London football representation practice focused on developing talent, protecting players off the pitch, and creating long-term career opportunities.
-
-## Retired / Archived Projects
-- **ProfitPanda** — Archived early software project; no longer actively operated.
+## Businesses
+1. **Joe Ships** (https://joeships.com/) — Fixed-scope B2B AI solutions and internal tools for commercial businesses and multi-site firms.
+2. **Chapple Sports** (https://chapplesports.com/) — Independent London football representation practice focused on developing talent, protecting players off the pitch, and creating long-term career opportunities.
