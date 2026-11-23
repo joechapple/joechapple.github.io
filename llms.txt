@@ -1,10 +1,10 @@
 # Joseph Chapple (Joe Chapple)
 
-> London-based founder of Joe Ships (operated by LineSensei Ltd, Company No. 17522419), fixed-scope B2B AI solutions and internal tools, and independently building Chapple Sports (football representation).
+> London-based founder of Joe Ships (operated by LineSensei Ltd, Company No. 17522419), fixed-scope B2B AI solutions and internal tools, and independently building Culverden Sports (football representation).
 
 ## Identity
 - **Name:** Joseph Chapple (also known as Joe Chapple)
-- **Role:** Founder & Director, LineSensei Ltd (operates Joe Ships) · Independent Founder, Chapple Sports (London, United Kingdom)
+- **Role:** Founder & Director, LineSensei Ltd (operates Joe Ships) · Independent Founder, Culverden Sports (London, United Kingdom)
 - **Canonical Profile:** https://linesensei.com/joseph-chapple
 - **GitHub:** https://github.com/joechapple
 - **LinkedIn:** https://www.linkedin.com/in/joseph-chapple-b92232442/
@@ -13,4 +13,4 @@
 
 ## Businesses
 1. **Joe Ships** (https://joeships.com/) — Fixed-scope B2B AI solutions and internal tools for commercial businesses and multi-site firms.
-2. **Chapple Sports** (https://chapplesports.com/) — Independent London football representation practice focused on developing talent, protecting players off the pitch, and creating long-term career opportunities.
+2. **Culverden Sports** (https://culverdensports.com/) — Independent London football representation practice focused on developing talent, protecting players off the pitch, and creating long-term career opportunities.
